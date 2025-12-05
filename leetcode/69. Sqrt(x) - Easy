@@ -1,0 +1,28 @@
+class Solution {
+public:
+    int mySqrt(int x) {
+        if (x < 2) return x;
+
+        long long a = 1;          
+        long long q = x / 2;      
+        long long z = 0;          
+
+        while (a <= q) {
+            long long m = a + (q - a) / 2; 
+            long long r = m * m;           
+
+            if (r == x) {
+                return m;
+            } 
+            else if (r < x) {
+                z = m;        
+                a = m + 1;    
+            } 
+            else {
+                q = m - 1;    
+            }
+        }
+
+        return z;
+    }
+};
