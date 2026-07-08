@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 15 |
+| 16 | 15 |
 
 ---
 
@@ -14,15 +14,15 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (3)
-- [math](#math) (7)
+- [math](#math) (8)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
@@ -51,6 +51,7 @@
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
+| 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 
 ### combinatorics
 
@@ -62,6 +63,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 
 ### dfs and similar
@@ -110,6 +112,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
+| 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
