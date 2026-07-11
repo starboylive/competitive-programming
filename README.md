@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 15 |
+| 19 | 17 |
 
 ---
 
@@ -19,11 +19,13 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
+- [games](#games) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (3)
 - [math](#math) (10)
 - [number theory](#number-theory) (3)
+- [schedules](#schedules) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
@@ -79,6 +81,12 @@
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
 | 2241E | [Fair and Square](https://codeforces.com/contest/2241/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/E%20-%20Fair%20and%20Square/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+
 ### graphs
 
 | # | Problem | Difficulty | Solution |
@@ -94,6 +102,7 @@
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
@@ -129,6 +138,12 @@
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241E | [Fair and Square](https://codeforces.com/contest/2241/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/E%20-%20Fair%20and%20Square/solution.cpp) |
+
+### schedules
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
 ### sortings
 
