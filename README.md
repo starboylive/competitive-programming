@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 18 |
+| 28 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (6)
 - [combinatorics](#combinatorics) (1)
@@ -49,6 +49,7 @@
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2244F | [Anya Loves Trees!](https://codeforces.com/contest/2244/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2244/F%20-%20Anya%20Loves%20Trees!/solution.cpp) |
+| 2244G | [Yura and Deadlines](https://codeforces.com/contest/2244/problem/G) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2244/G%20-%20Yura%20and%20Deadlines/solution.cpp) |
 
 ### bitmasks
 
