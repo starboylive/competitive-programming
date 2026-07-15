@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 18 |
+| 29 | 18 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (12)
+- [greedy](#greedy) (13)
 - [implementation](#implementation) (3)
 - [math](#math) (12)
 - [number theory](#number-theory) (3)
@@ -120,6 +120,7 @@
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
+| 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
