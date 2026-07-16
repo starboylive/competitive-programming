@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 18 |
+| 32 | 18 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (14)
 - [implementation](#implementation) (3)
 - [math](#math) (13)
 - [number theory](#number-theory) (4)
@@ -125,6 +125,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
+| 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.cpp) |
 
 ### implementation
 
