@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 18 |
+| 38 | 18 |
 
 ---
 
@@ -22,8 +22,8 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (15)
-- [implementation](#implementation) (4)
+- [greedy](#greedy) (16)
+- [implementation](#implementation) (6)
 - [math](#math) (16)
 - [number theory](#number-theory) (4)
 - [schedules](#schedules) (1)
@@ -114,6 +114,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1353A | [Most Unstable Array](https://codeforces.com/contest/1353/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1353/A%20-%20Most%20Unstable%20Array/solution.cpp) |
 | 1360A | [Minimal Square](https://codeforces.com/contest/1360/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1360/A%20-%20Minimal%20Square/solution.cpp) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
@@ -133,7 +134,9 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 
