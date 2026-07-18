@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 18 |
+| 38 | 18 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (16)
 - [number theory](#number-theory) (4)
 - [schedules](#schedules) (1)
@@ -134,6 +134,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/starboylive/competitive-programming/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
