@@ -1,21 +1,25 @@
-#include <iostream>
-#include <string>
+#include <bits/stdc++.h>
 using namespace std;
  
 int main() {
-    int n, x = 0;
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+ 
+    int n;
     cin >> n;
  
+    int x = 0;
     while (n--) {
         string s;
         cin >> s;
  
-        if (s.find('+') != string::npos)
+        if (s[1] == '+')
             x++;
         else
             x--;
     }
  
-    cout << x << endl;
+    cout << x;
+ 
     return 0;
 }
